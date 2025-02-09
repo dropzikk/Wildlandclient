@@ -1,9 +1,0 @@
-type = panorama
-
-panorama-meta {
-  name = wildland
-  speed = 1.0
-  fov = 85.0
-  angle = 28.0
-  start_rotation = 0
-}
