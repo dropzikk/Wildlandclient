@@ -1,0 +1,28 @@
+enableSodiumMenu = true
+cloudCulling = true
+signTextCulling = true
+rainCulling = true
+useBlockStateCulling = true
+useCustomItemFrameRenderer = true
+itemFrameMapCulling = true
+useItemFrameLOD = true
+itemFrameLODRange = 48
+useItemFrame3FaceCulling = false
+itemFrame3FaceCullingRange = 12.0
+leavesCullingMode = "DEFAULT"
+leavesCullingAmount = 2
+includeMangroveRoots = false
+powderSnowCulling = true
+useOnModdedBlocksByDefault = true
+
+[modCompatibility]
+naturalist = true
+farmersdelight = true
+bosses_of_mass_destruction = true
+milk = true
+betteranimalsplus = true
+create = true
+creeperoverhaul = true
+villagersplus = true
+rottencreatures = true
+minecraft = true
